@@ -103,14 +103,6 @@ python malware_cfg_demo.py --data path/to/data.csv --out results/
 - Python 3.8+
 - numpy, pandas, scikit-learn, matplotlib, seaborn, xgboost, scipy
 
-## Citation
-
-If you use this work, please cite:
-
-```
-Srivastava, A. (2026). Malware Detection Using Control Flow Graph Topology
-Features with Classical Machine Learning. VIT Chennai.
-```
 
 ## References
 
